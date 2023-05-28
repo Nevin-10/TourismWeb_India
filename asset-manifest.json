@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/robofriend/static/css/main.d883be25.css",
+    "main.js": "/robofriend/static/js/main.4b9591dc.js",
+    "static/js/787.ab12092d.chunk.js": "/robofriend/static/js/787.ab12092d.chunk.js",
+    "static/media/1.jpg": "/robofriend/static/media/1.04b04772233ba0ef6603.jpg",
+    "static/media/0.jpg": "/robofriend/static/media/0.06d393a043fa775b05b7.jpg",
+    "static/media/10.jpg": "/robofriend/static/media/10.22834f81f1d44f996dd0.jpg",
+    "static/media/6.jpg": "/robofriend/static/media/6.9dbe3acc184b964b9031.jpg",
+    "static/media/5.jpg": "/robofriend/static/media/5.e6c9ebc6420fed9ce31d.jpg",
+    "static/media/3.jpg": "/robofriend/static/media/3.bb1512e4c24449798039.jpg",
+    "static/media/7.jpg": "/robofriend/static/media/7.fb2037b867bbe3e31b04.jpg",
+    "static/media/9.jpg": "/robofriend/static/media/9.d5168ee16a5ae075ee29.jpg",
+    "static/media/2.jpg": "/robofriend/static/media/2.1338e41950dc9a4c90d0.jpg",
+    "static/media/8.jpg": "/robofriend/static/media/8.176cf819dc8569ac5859.jpg",
+    "static/media/4.jpg": "/robofriend/static/media/4.a42d0a026dec414fdf90.jpg",
+    "static/media/SEGA.woff": "/robofriend/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robofriend/index.html",
+    "main.d883be25.css.map": "/robofriend/static/css/main.d883be25.css.map",
+    "main.4b9591dc.js.map": "/robofriend/static/js/main.4b9591dc.js.map",
+    "787.ab12092d.chunk.js.map": "/robofriend/static/js/787.ab12092d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d883be25.css",
+    "static/js/main.4b9591dc.js"
+  ]
+}
